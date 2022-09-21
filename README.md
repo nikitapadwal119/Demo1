@@ -1,1 +1,2 @@
-This contains instructions of project
+This contains instructions of projet
+updated file
